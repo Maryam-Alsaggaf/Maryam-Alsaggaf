@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Mobile Appliction and UI&UX design .
 - 🌱 I’m currently learning Flutter tool and Swift language.
 - 📫 How you to reach me :maryam1xsa@gmail.com .
-- -Tools : Jgrasp, NotePad++,Android Studio.
+- -Tools : JGrasp, NotePad++,Android Studio.
 - -Skills: Android Appliction Development,Object-oriented programming,Data Structure Algorithems.
 - -Languages: Python,HTML,Javascript,CSS,XML,Java,SQL.
                                       
