@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Maryam-Alsaggaf I am fresh graduate student at King Saud University with major Programming and Database in diploma degree.
+- .. Self-learner 
 - 👀 I’m interested in Developing Mobile Appliction and UI&UX design .
 - 🌱 I'm currently working on e-commerce mobile appliction as freelance for Mawdaa company.
 - 🌱 I’m currently learning Flutter tool & Dart and Kotlin language.
