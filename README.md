@@ -4,7 +4,6 @@
 - 🌱 I'm currently working on e-commerce mobile appliction as freelance for Mawdaa company.
 - 🌱 I’m currently learning Flutter tool & Dart and Kotlin language.
 - 📫 How you to reach me :maryam1xsa@gmail.com .
-- -Tools : JGrasp, NotePad++,Android Studio.
 - -Skills: Android Appliction Development,Object-oriented programming,Problem Solving.
 - -Languages: Python,HTML,Javascript,CSS,XML,Java,SQL,Dart.
                                       
